@@ -1,0 +1,3 @@
+class Farmacia::Medicamento
+
+end
